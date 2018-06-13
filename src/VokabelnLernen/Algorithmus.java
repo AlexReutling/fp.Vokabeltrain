@@ -108,6 +108,10 @@ public class Algorithmus
 		return mapvocs.toString();
 	}
 	
-	
+	//basic
+	public void da()
+	{
+		
+	}
 	
 }
